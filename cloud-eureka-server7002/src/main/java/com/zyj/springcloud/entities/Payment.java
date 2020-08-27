@@ -13,7 +13,7 @@ public class Payment implements Serializable {
 
     public Long getId() {
         return id;
-    }
+    } 
 
     public String getSerial() {
         return serial;
